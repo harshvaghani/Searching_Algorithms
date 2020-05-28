@@ -1,3 +1,3 @@
 # Searching_Algorithms
 All searching algorithms in c++.
-Binary Search is best of all and Linear search is easiest from all.
+All searching algorithms in c++. Binary Search is the finest of all and Linear search is the easiest searching algorithm from all.
